@@ -1,0 +1,9 @@
+C:\Users\mcelada\source\repos\PatronChainDivisas\Negocio\bin\Debug\Negocio.dll
+C:\Users\mcelada\source\repos\PatronChainDivisas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\mcelada\source\repos\PatronChainDivisas\Negocio\bin\Debug\BE.dll
+C:\Users\mcelada\source\repos\PatronChainDivisas\Negocio\bin\Debug\BE.pdb
+C:\Users\mcelada\source\repos\PatronChainDivisas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\mcelada\source\repos\PatronChainDivisas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\mcelada\source\repos\PatronChainDivisas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\mcelada\source\repos\PatronChainDivisas\Negocio\obj\Debug\Negocio.dll
+C:\Users\mcelada\source\repos\PatronChainDivisas\Negocio\obj\Debug\Negocio.pdb

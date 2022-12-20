@@ -1,0 +1,6 @@
+C:\Users\mcelada\source\repos\PatronChainDivisas\BE\bin\Debug\BE.dll
+C:\Users\mcelada\source\repos\PatronChainDivisas\BE\bin\Debug\BE.pdb
+C:\Users\mcelada\source\repos\PatronChainDivisas\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\mcelada\source\repos\PatronChainDivisas\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\mcelada\source\repos\PatronChainDivisas\BE\obj\Debug\BE.dll
+C:\Users\mcelada\source\repos\PatronChainDivisas\BE\obj\Debug\BE.pdb

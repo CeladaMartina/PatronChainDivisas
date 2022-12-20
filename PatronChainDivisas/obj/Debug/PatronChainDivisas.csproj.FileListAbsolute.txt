@@ -1,0 +1,15 @@
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\bin\Debug\PatronChainDivisas.exe.config
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\bin\Debug\PatronChainDivisas.exe
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\bin\Debug\PatronChainDivisas.pdb
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\bin\Debug\BE.dll
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\bin\Debug\Negocio.dll
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\bin\Debug\BE.pdb
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\bin\Debug\Negocio.pdb
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\obj\Debug\PatronChainDivisas.csproj.AssemblyReference.cache
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\obj\Debug\PatronChainDivisas.Form1.resources
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\obj\Debug\PatronChainDivisas.Properties.Resources.resources
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\obj\Debug\PatronChainDivisas.csproj.GenerateResource.cache
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\obj\Debug\PatronChainDivisas.csproj.CoreCompileInputs.cache
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\obj\Debug\PatronChainDivisas.csproj.CopyComplete
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\obj\Debug\PatronChainDivisas.exe
+C:\Users\mcelada\source\repos\PatronChainDivisas\PatronChainDivisas\obj\Debug\PatronChainDivisas.pdb
